@@ -1,0 +1,167 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(255, 166, 0, 0.01);
+    margin: 0;
+    bottom: 0;
+
+
+}
+
+.flex {
+    display: flex;
+    margin-top: 130px;
+
+
+}
+
+.text-side {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 80px;
+}
+
+.text-side h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #5c5c5c;
+}
+
+p {
+    color: #555;
+    margin-bottom: 50px;
+}
+
+.orange-text {
+    color: rgba(253, 93, 0, 0.664);
+}
+
+.btn {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 12px 25px;
+    color: white;
+    background: linear-gradient(to right, rgb(255, 145, 0), tomato);
+    border-radius: 40px;
+    box-shadow: 5px 5px 25px rgba(255, 99, 71, 0.9);
+
+}
+
+.img-side {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+
+
+}
+
+.female-img {
+    width: 60%;
+    margin-top: 80px;
+    margin-bottom: -5px;
+}
+
+.male-img {
+    width: 700px
+}
+
+.heading-text {
+    font-size: 40px;
+    font-weight: 700;
+    color: #5c5c5c;
+}
+
+.sec-2 {
+    background-image: url(./images/shapes/7.png);
+}
+
+.recipies {
+    text-align: center;
+    margin-left: 160px;
+
+
+}
+
+.recipies p {
+    margin-bottom: 0px;
+}
+
+.lead {
+    margin-bottom: -50px;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 5px 5px 20px rgba(128, 128, 128, 0.425);
+    margin-left: 20px;
+
+    width: 450px;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.card-body {
+    padding: 10px 0;
+}
+
+.head-sub {
+    text-align: left;
+    margin-top: -10px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+
+.card img {
+    width: 450px;
+    height: 300px;
+
+}
+
+.subscriber {
+    text-align: center;
+    box-shadow: 5px 5px 20px rgba(128, 128, 128, 0.425);
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 20px;
+}
+.subscriber p {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: -5px;
+    color: #000;
+}
+.subscriber span {
+    color: #5c5c5c;
+    font-size: 14px;
+}
+
+.youtube {
+    padding-left: 150px;
+    padding-bottom: 50px;
+    
+}
+
+.instagram {
+    padding-left: 150px;
+   padding-bottom: 50px;
+}
+
+.dribbble {
+    padding-left: 150px;
+   padding-bottom: 50px;
+}
+
+footer {
+    height: 220px;
+    text-align: center;
+    color: rgb(94, 94, 94);
+    background: #0b0d17;
+}
+.footer-head {
+    font-size: 30px;
+
+    padding-top: 30px;
+}
